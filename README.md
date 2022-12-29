@@ -42,4 +42,9 @@
 
 代码中含有详细注释及执行步骤。
 
+## 三、测试方法
+```bash
+node .\debugger.js
+```
+
 参考链接：[二十张图片彻底讲明白 Webpack 设计理念，以看懂为目的](https://mp.weixin.qq.com/s/Zy5geHwrgY_QN5Yy7n7Ekg)
